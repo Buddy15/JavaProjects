@@ -3,3 +3,4 @@ Test 1
 This is a short cut commit for sample file
 
 Branch
+ignoring staging by short cut
